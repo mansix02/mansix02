@@ -1,5 +1,7 @@
 ## Hi there Mansi Ahirwar 👋
 
+---
+
 💻 **Web Developer** | 🌐 **Open Source Enthusiast** | 🎨 **UI/UX Fan**
 
 ### 🔧 Tech Stack
@@ -10,16 +12,10 @@
 
 ---
 
-### 📂 Featured Projects
-- [Project Name](https://github.com/username/project) - Brief description  
-- [Another Project](https://github.com/username/project) - Brief description  
-
----
-
 ### 🤝 Let's Connect!
-- 🌍 [Portfolio](https://yourportfolio.com)  
-- 🐦 [Twitter](https://twitter.com/username)  
-- 💼 [LinkedIn](https://linkedin.com/in/username)  
+- 🌍 [Portfolio](https://mansiahirwar.netlify.app/)  
+- 🐦 [Twitter](https://x.com/mansix02?t=LyoUK71JX78Usm7HfrzLaw&s=09)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mansi-ahirwar-18446a286)  
 
 ---
 
