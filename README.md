@@ -13,7 +13,7 @@
 ---
 
 ### 🤝 Let's Connect!
-- 🌍 [Portfolio](https://mansiahirwar.netlify.app/)  
+- 🌍 [Portfolio](https://mansiahirwarportfolio.netlify.app/)  
 - 🐦 [Twitter](https://x.com/mansix02?t=LyoUK71JX78Usm7HfrzLaw&s=09)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mansi-ahirwar-18446a286)  
 
