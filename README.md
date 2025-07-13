@@ -42,13 +42,9 @@
 
 ### 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mansix02&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mansix02&show_icons=true&theme=tokyonight" height="170px"/> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansix02&layout=compact&theme=tokyonight" height="170px"/> 
 </p>
-
----
-
-### 🔍 Profile Views
 
 ---
 
