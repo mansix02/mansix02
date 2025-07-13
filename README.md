@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Mansi Ahirwar!
----
 
 💻 **Full Stack Web Developer** | 🌐 **Open Source Contributor** | 🎨 **UI/UX Enthusiast**
 🚀 Passionate about building accessible web apps, creative UIs, and impactful AI tools
